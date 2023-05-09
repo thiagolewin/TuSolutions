@@ -67,7 +67,8 @@ nav ul li a {
     overflow: hidden;
     z-index: 20;
     position: relative;
-    margin-top: 100px;
+    box-sizing: content-box;
+    padding-top: 100px;
 }
 h1 {
     z-index: 3;
